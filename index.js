@@ -4,7 +4,7 @@ var app = express();
 
 // Respond with 'hello world'
 app.get('/', function (req, res) {
-    res.send('hello world, this should not fail');
+    res.send('hello Danita');
 })
 
 // Listen on port 3000
